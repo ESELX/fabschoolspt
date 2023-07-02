@@ -1,0 +1,34 @@
+/*---------------------
+
+# MAIN STYLESHEET
+
+Template Name: Aster
+Version: 1.2.0
+Author: bslthemes
+Author URL: http://themeforest.net/user/bslthemes
+Copyright © Aster by bslthemes. All Rights Reserved.
+
+---------------------*/
+
+@import "setting";
+@import "basic";
+@import "layout";
+
+
+.subtitle {
+
+    color: $default_color;
+}
+
+.btn {
+    color: $second_color;
+}
+
+.preloader .spinner-logo {
+    width: 300px;
+
+}
+
+.preloader .spinner.spinner-line {
+    background: $text_color;
+}

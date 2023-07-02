@@ -1,0 +1,81 @@
+[all]
+other = "todos"
+
+[readMore]
+other = "saber mais"
+
+[by]
+other = "Por"
+
+[yourName]
+other = "Nome"
+
+[enterYourName]
+other = "Insira o seu nome completo"
+
+[yourEmail]
+other = "e-mail"
+
+[enterYourEmail]
+other = "Insira o seu e-mail"
+
+[yourMessage]
+other = "Mensagem"
+
+[enterYourMessage]
+other = "Insira a sua mensagem aqui"
+
+[submit]
+other = "Enviar"
+
+[latestPosts]
+other = "Últimas Publicações"
+
+[taxonomyPageList]
+other = "Abaixo estão as páginas que utilizam o termo de taxonomia '{{ .Title }}'"
+
+[readingTime]
+one = "1 min de leitura"
+other = "{{ .Count }} mins de leitura"
+
+[share]
+other = "Partilhar"
+
+[shareOn]
+other = "Partilhar no"
+
+[tags]
+other = "Palavras-chave"
+
+[comments]
+other = "Comentários"
+
+[nextPost]
+other = "Próximo artigo"
+
+[prevPost]
+other = "Artigo anterior"
+
+[nextProject]
+other = "Próximo projeto"
+
+[prevProject]
+other = "Projeto anterior"
+
+[successMessage]
+other = "Obrigado, a sua mensagem foi enviada com sucesso."
+
+[developedBy]
+other = "Desenvolvido por"
+
+[category]
+other = "Categoria"
+
+[errorNum]
+other = "404"
+
+[errorTitle]
+other = "Oops!"
+
+[errorText]
+other = "A página que procura não existe ou foi movida."
