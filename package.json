@@ -1,0 +1,24 @@
+{
+  "name": "fabschoolscatv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESELX/fabschoolspt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESELX/fabschoolspt/issues"
+  },
+  "homepage": "https://github.com/ESELX/fabschoolspt#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.22",
+    "tinacms": "^1.5.13"
+  }
+}
