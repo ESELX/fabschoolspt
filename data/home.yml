@@ -16,18 +16,16 @@ main_slider:
       link: "/about/"
       image: "images/started-n15-1920x1080.png"
 
-    - title: "Design de Produtos Interativos para Educação"
-      subtitle: "Pós-Graduação"
-      description: "
-        O curso de pós-graduação em Design de Produtos Interativos para Educação pretende contribuir para a preparação de profissionais de design e educação para a sua integração e eventual coordenação de equipas multidisciplinares para desempenho de tarefas relacionadas com o design, a seleção e/ou implementação de produtos interativos para educação
-      "
+    - title: "Design of Interactive Products for Education"
+      subtitle: "Postgraduate Course"
+      description: "The postgraduate course in Design of Interactive Products for Education aims to contribute to the preparation of design and education professionals for their integration and eventual coordination of multidisciplinary teams to perform tasks related to the design, selection and/or implementation of interactive products for education."
       link: "/portfolio/alquimetricos/"
       image: "images/started-n26-1920x1080.jpg"
 
-    - title: "The Dance"
-      subtitle: "art"
+    - title: "Deck of Cards"
+      subtitle: "Tools for Designing and Prototyping"
       description: "
-        Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic question, the answer he gives will necessarily be unique as well.
+        he fabschools game is a social and collaborative game aimed at evaluating the OER potential in maker/fablab practices and designs or a design tool to help a team generate this.
       "
       link: "/portfolio/the-dance/"
       image: "images/started-n15-1920x1080.jpg"

@@ -57,8 +57,8 @@ list:
 ### Video [ videoSection ]
 video:
   enable: 1
-  image: "/images/started-n7.jpg"
-  video_id: "Gu6z6kIukgg"
+  image: "/images/started-n7.png"
+  video_id: "AXYKqDz_Gfg"
 
 ### Team [ teamSection ]
 team:

@@ -32,3 +32,15 @@ Copyright © Aster by bslthemes. All Rights Reserved.
 .preloader .spinner.spinner-line {
     background: $text_color;
 }
+
+.hero-main-slider .slide-titles .title:after {
+    background: $text_color;
+}
+
+.dark-first .hero-main-slider .btn.more-btn {
+    color: $text_color;
+}
+
+.dark-first .header .header__builder .logo-image img {
+    filter: none;
+  }
