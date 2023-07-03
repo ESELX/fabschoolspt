@@ -24,29 +24,18 @@ services:
   enable: 1
   title: "Our services"
   items:
-    - title: "Marketing"
-      icon: "fas fa-chart-bar"
+    - title: "Posgraduate Course"
+      icon: "fas fa-university"
       text: "Focused on creating, publishing, and distributing content for a targeted audience online."
 
-    - title: "Copywriting"
-      icon: "fas fa-copyright"
+    - title: "Research"
+      icon: "fas fa-laptop"
       text: "Act or occupation of writing text for the purpose of advertising or other forms of marketing."
 
-    - title: "Web Design"
-      icon: "far fa-object-group"
+    - title: "Design and Training"
+      icon: "far fa-paper-plane"
       text: "Design process relating to the front-end (client side) design of a website including writing."
 
-    - title: "Advertising"
-      icon: "fas fa-ad"
-      text: "Employs an openly sponsored, non-personal message to promote or sell a product, service."
-
-    - title: "Optimization"
-      icon: "fas fa-rocket"
-      text: "Improving the quality and quantity of website traffic to a website or a web page from search."
-
-    - title: "Support"
-      icon: "far fa-life-ring"
-      text: "Services to assist customers in making cost effective and correct use of a product."
 
 ### List [ listSection ]
 list:
