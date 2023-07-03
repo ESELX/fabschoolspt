@@ -22,15 +22,15 @@ description:
 ### Services [ servicesSection ]
 services:
   enable: 1
-  title: "Our services"
+  title: "The Fabschools Ecosystem"
   items:
     - title: "Posgraduate Course"
       icon: "fas fa-university"
-      text: "Focused on creating, publishing, and distributing content for a targeted audience online."
+      text: "The post-graduation course in Design of Interactive Products for Education intends to contribute to the preparation of design and education professionals for their integration and eventual coordination of multidisciplinary teams to perform tasks related to the design, selection and / or implementation of interactive products for education."
 
     - title: "Research"
       icon: "fas fa-laptop"
-      text: "Act or occupation of writing text for the purpose of advertising or other forms of marketing."
+      text: "Fabschools"
 
     - title: "Design and Training"
       icon: "far fa-paper-plane"
