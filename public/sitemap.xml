@@ -2,162 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/test/</loc>
+    <loc>/test/</loc>
     <lastmod>2022-07-02T17:02:58+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/designer-conference-at-florida-2020/</loc>
+    <loc>/blog/designer-conference-at-florida-2020/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/documentation/</loc>
+    <loc>/categories/documentation/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/mobile/</loc>
+    <loc>/tags/mobile/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <loc>/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/designers-thoughts-about-mobile-ui/</loc>
+    <loc>/blog/designers-thoughts-about-mobile-ui/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/fun/</loc>
+    <loc>/tags/fun/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/how-to-become-acreative-designer/</loc>
+    <loc>/blog/how-to-become-acreative-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/new-designers-limitations/</loc>
+    <loc>/blog/new-designers-limitations/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/things-you-must-know-as-a-designer/</loc>
+    <loc>/blog/things-you-must-know-as-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/travel/</loc>
+    <loc>/categories/travel/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/website/</loc>
+    <loc>/tags/website/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/world-most-famous-app-developers-and-designers/</loc>
+    <loc>/blog/world-most-famous-app-developers-and-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/blog/you-must-know-this-before-becoming-a-designer/</loc>
+    <loc>/blog/you-must-know-this-before-becoming-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/alquimetricos/</loc>
+    <loc>/portfolio/alquimetricos/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/astronaut/</loc>
+    <loc>/portfolio/astronaut/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/blue-denim/</loc>
+    <loc>/portfolio/blue-denim/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/ferris-wheel/</loc>
+    <loc>/portfolio/ferris-wheel/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/gallery/</loc>
+    <loc>/gallery/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/home-blur/</loc>
+    <loc>/home-blur/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/home-grid/</loc>
+    <loc>/home-grid/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/home-disp/</loc>
+    <loc>/home-disp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/home-half/</loc>
+    <loc>/home-half/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/negative-space/</loc>
+    <loc>/portfolio/negative-space/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/portfolio/the-dance/</loc>
+    <loc>/portfolio/the-dance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

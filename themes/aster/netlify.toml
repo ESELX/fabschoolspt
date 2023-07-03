@@ -1,7 +1,7 @@
 # Netlify configuration
 
 [build]
-  command = "tinacms build && hugo"
+  command = "hugo"
   publish = "public"
 
 [build.environment]

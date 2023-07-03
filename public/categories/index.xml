@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fabschools.pt</title>
-    <link>http://example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Fabschools.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>http://example.org/categories/documentation/</link>
+      <link>/categories/documentation/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
       
-      <guid>http://example.org/categories/documentation/</guid>
+      <guid>/categories/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.org/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://example.org/categories/travel/</link>
+      <link>/categories/travel/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/categories/travel/</guid>
+      <guid>/categories/travel/</guid>
       <description></description>
     </item>
     
