@@ -30,11 +30,11 @@ services:
 
     - title: "Research"
       icon: "fas fa-laptop"
-      text: "Fabschools"
+      text: "Fabschools research aims to understand and contribute to the process of identifying maker education artifacts and practices that can be used in the context of formal education."
 
     - title: "Design and Training"
       icon: "far fa-paper-plane"
-      text: "Design process relating to the front-end (client side) design of a website including writing."
+      text: "Fabschools is aimed at devoloping teacher training based on the products and practices that derive from both the projects identiifed through reseacrch and those developed by our students and community."
 
 
 ### List [ listSection ]
