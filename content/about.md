@@ -5,7 +5,8 @@ sections:
   - headingSection
   - videoSection
   - descriptionSection
-  - teamSection
   - serviceSection
+  - teamSection
+  
 
 ---

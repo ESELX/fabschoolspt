@@ -44,3 +44,13 @@ Copyright © Aster by bslthemes. All Rights Reserved.
 .dark-first .header .header__builder .logo-image img {
     filter: none;
   }
+
+  element {
+}
+.dark-first .hero-main-slider .swiper-pagination .swiper-pagination-bullet {
+  background: $text_color;
+}
+
+.dark-first .menu-btn span::before, .dark-first .menu-btn span::after {
+    background: $text_color;
+  }
