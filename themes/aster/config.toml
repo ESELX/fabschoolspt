@@ -86,10 +86,10 @@ DefaultContentLanguage = "en"
 # Main Settings
 [params]
 dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
+authorName = "Fabschools"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+formspreeURL = "https://formspree.io/f/xdornreq" #YOUR FORMSPREE URL
+googleAnalytics = "G-GN0NB9HJWR" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
 [params.preloader]
@@ -101,13 +101,13 @@ logo = "images/logo.png"
 
 # Footer Settings
 [params.footer]
-copyright = "Copyright © 2022 Aster"
+copyright = "CC-BY 2023 ESELx - IPL"
 col1_title = "Address:"
-col1_text = "Ridgewood Queens,<br/>NY 11385, USA"
+col1_text = "Escola Superior de Educação de Lisboa<br/>Campus de Benfica do IPL<br/>1549-003 Lisboa"
 col2_title = "Follow Us:"
 col2_text = ""
 col3_title = "Get in touch:"
-col3_text = "asteragency@domain.com<br/>+012 (234) 567 78"
+col3_text = "fabschools@eselx.ipl.pt<br/>(+351) 217 115 500"
 
 # Social Settings
 [[params.social]]
