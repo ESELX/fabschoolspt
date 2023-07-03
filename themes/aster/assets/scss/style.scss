@@ -54,3 +54,8 @@ Copyright © Aster by bslthemes. All Rights Reserved.
 .dark-first .menu-btn span::before, .dark-first .menu-btn span::after {
     background: $text_color;
   }
+
+  .section.m-video-large .video .play {
+    background: $text_color url(../images/circle.svg)no-repeat 50%;
+    
+  }
