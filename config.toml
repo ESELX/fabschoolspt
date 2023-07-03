@@ -36,24 +36,24 @@ DefaultContentLanguage = "en"
   name = "Contact"
   url = "/contact/"
   weight = 4
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 5
+# [[menu.main]]
+#  identifier = "blog"
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 5
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 6
+  weight = 5
 
 # Main Settings
 [params]
 dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
-disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+authorName = "Fabschools"
+# disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
+formspreeURL = "https://formspree.io/f/xdornreq" #YOUR FORMSPREE URL
+googleAnalytics = "G-GN0NB9HJWR" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
 [params.preloader]
