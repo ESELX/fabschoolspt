@@ -11,7 +11,7 @@ parallax:
 ### Description [ descriptionSection ]
 description:
   enable: 1
-  title: "We are startup<br />digital agency"
+  title: "How can Fablabs<br />impact education?"
   column1: "
     A Los Angeles based studio building handcrafted websites and brands for companies and all over the world. It is not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and, yes, beauty to people’s lives. Creativity is to discover a question that has never been asked. If one brings up an idiosyncratic questionl.
   "
@@ -76,17 +76,14 @@ team:
   enable: 1
   title: "Meet the team"
   items:
-    - name: "Natasha Singh"
-      subname: "Founder"
+    - name: "André Rocha"
+      subname: "Professor / Researcher"
       image: "/images/team5.jpg"
 
-    - name: "Robert Long"
-      subname: "Co-founder"
+    - name: "Tiago Almeida"
+      subname: "Professor / Researcher"
       image: "/images/team1.jpg"
 
-    - name: "Viktoria Freeman"
-      subname: "Designer"
-      image: "/images/team2.jpg"
 
 ### Testimonial [ testimonialSection ]
 testimonial:

@@ -21,26 +21,15 @@ DefaultContentLanguage = "en"
   url = "/about/"
   weight = 2
 [[menu.main]]
-  identifier = "works"
-  name = "Works"
+  identifier = "works-grid"
+  name = "Catalogue"
   url = "/portfolio/"
   weight = 3
-  [[menu.main]]
-    identifier = "works-grid"
-    parent = "works"
-    name = "Works"
-    url = "/portfolio/"
-    weight = 1
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
   weight = 4
-# [[menu.main]]
-#  identifier = "blog"
-#  name = "Blog"
-#  url = "/blog/"
-#  weight = 5
 [[menu.main]]
   identifier = "contact"
   name = "Contact"

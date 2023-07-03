@@ -3,12 +3,9 @@ title: About
 builder: true
 sections:
   - headingSection
-  - parallaxSection
-  - descriptionSection
-  - serviceSection
-  - listSection
   - videoSection
+  - descriptionSection
   - teamSection
-  - testimonialSection
-  - clientsSection
+  - serviceSection
+
 ---
