@@ -13,7 +13,7 @@ main_slider:
       description: "
         Meet Fabschools and learn how to get involved!.
       "
-      link: "/portfolio/blue-denim/"
+      link: "/about/"
       image: "images/started-n15-1920x1080.png"
 
     - title: "Design de Produtos Interativos para Educação"
