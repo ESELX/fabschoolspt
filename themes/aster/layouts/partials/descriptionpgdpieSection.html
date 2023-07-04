@@ -1,0 +1,32 @@
+{{ with .Site.Data.pgdpie.descriptionpgdpie }}
+{{ if .enable }}
+
+<div class="section section-inner section-description scrolla-element-anim-1 scroll-animate" data-animate="active">
+  <div class="container fluid">
+    
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <h1>{{ .title | safeHTML }}</h1>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+        {{ .column1 | safeHTML }}
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+        {{ .column2 | safeHTML }}
+      </div>
+      <hr>
+      <div class="image">
+        <div class="img">
+          <img src="{{ .image | absURL }}" alt="pgdpie" />
+        </div>
+      </div>
+      <hr>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        {{ .fullW | safeHTML }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

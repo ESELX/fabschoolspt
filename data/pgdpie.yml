@@ -1,0 +1,69 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Descriptionpgdpie [ descriptionpgdpieSection ]
+descriptionpgdpie:
+  enable: 1
+  title: "Postgraduate Course<br />Design of Interactive Products for Education"
+  column1: "
+    The Postgraduate Course in Design of Interactive Products for Education has a total of 60 ECTS and a duration of 2 semesters, which aims at the deepening of skills in design and prototyping for the educational area, serving professionals both in the field of education and design wishing to develop products or projects within their institution or even embrace new opportunities in the area of interactive products for education.
+The course has a study plan that privileges an expansive and inclusive definition of an interactive product. Thus, from the app to the toy, from digital to tangible, all approaches can have a place here.
+
+  "
+  column2: "
+   The course foresees the realization of a final project, evaluated through the CU of Interactive Product Design for Education. However, this final project process starts at the beginning of the course. It is then formulated, developed, and followed through the subsequent Curricular Units according to the themes and tools each will address. it is also important to mention that Fablab Benfica, as a prototyping space, will host and play an essential role throughout the course. "
+  image: "/images/started-n26-1920x1080.jpg"
+  fullW: "Recipients Graduates, masters or doctors of courses related to education sciences; Graduates, masters or doctors in courses related to design; Graduates, masters or doctors in the abovementioned areas. Objectives The postgraduate course in Design of Interactive Products for Education aims to contribute to the preparation of design and education professionals for their integration and eventual coordination of multidisciplinary teams to perform tasks related to the design, selection and/or implementation of interactive products for education. From the toy to the open educational resource, from interactive graphic products to working, designing and prototyping in a Fablab environment, with particular emphasis on technologies, design and open educational resources (OER), students will be expected to develop the following transversal skills: Mobilization, integration and development of knowledge and skills of design, analysis and evaluation of interactive products for education; Definition of strategies for the use of interactive technologies in the educational context; Selection and use of design methodologies for interactive products for education; Communication skills and project management. Organization and Curricular Structure The course has two main components: (a) a curricular training component (40 ECTS); b) a project component supported by autonomous work, tutorial sessions, seminars and a teaching component oriented towards developing a project (20 ECTS). Venue ESELx - Benfica Campus of the IPL (with the possibility of carrying out activities 
+  "
+### Team [ teamCoordSection ]
+teamcoord:
+  enable: 1
+  title: "Coordination Team"
+  items:
+    - name: "André Rocha"
+      subname: "Professor"
+      image: "/images/team5.jpg"
+
+    - name: "Adriana Cardoso"
+      subname: "Professor"
+      image: "/images/team2.jpg"
+    
+    - name: "Tiago Almeida"
+      subname: "Professor"
+      image: "/images/team1.jpg"
+    
+    - name: "Nuno Monge"
+      subname: "Professor"
+      image: "/images/team2.jpg"
+    
+
+### Team [ teampgdpieSection ]
+teampgdpie:
+  enable: 1
+  title: "Professors"
+  items:
+    - name: "Luís Frias"
+      subname: "Professor"
+      image: "/images/team1.jpg"
+
+    - name: "Bernardo Gaeiras"
+      subname: "Professor"
+      image: "/images/team2.jpg"
+    
+    - name: "Madalena Matoso"
+      subname: "Professor"
+      image: "/images/team1.jpg"
+    
+    - name: "André Sier"
+      subname: "Professor"
+      image: "/images/team2.jpg"
+    
+    - name: "Miguel Mata Pereira"
+      subname: "Professor"
+      image: "/images/team1.jpg"
+    
+    - name: "Pedro Mosca"
+      subname: "Professor"
+      image: "/images/team5.jpg"

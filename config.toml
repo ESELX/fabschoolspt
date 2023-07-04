@@ -22,7 +22,7 @@ DefaultContentLanguage = "en"
   weight = 2
 [[menu.main]]
   identifier = "works-grid"
-  name = "Catalogue"
+  name = "Catalog"
   url = "/portfolio/"
   weight = 3
 [[menu.main]]
