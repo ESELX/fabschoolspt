@@ -14,15 +14,91 @@
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
         {{ .column2 | safeHTML }}
       </div>
-      <hr>
+    
       <div class="image">
         <div class="img">
-          <img src="{{ .image | absURL }}" alt="pgdpie" />
+          <p></p>
+          <img src="{{ .image | absURL }}" alt="fluid public presentation at Mouraria Creative Hub" />
         </div>
       </div>
-      <hr>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        {{ .fullW | safeHTML }}
+        <p></p>
+        {{ .fullW1 | safeHTML }}
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+        <h3>{{ .title3 | safeHTML }}</h3>
+        {{ .column3 | safeHTML }}
+        <h3>{{ .title4 | safeHTML }}</h3>
+        {{ .column4 | safeHTML }}
+        
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+        <h3>{{ .title5 | safeHTML }}</h3>
+        {{ .column5 | safeHTML }}
+        <div class="image">
+          <div class="img">
+            <p></p>
+            <img src="{{ .image2 | absURL }}" alt="pgdpie" />
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <p></p>
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Course</th>
+              <th scope="col">Professors</th>
+              <th scope="col">Semester</th>
+              <th scope="col">ECTS</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nuclear Option: Product Design, Interaction Design, Development and Learning in Education </th>
+              <td>André Rocha, Tiago Almeida, Miguel Soeiro, Luís Frias</td>
+              <td>Optional, choose 2 of 3* - 1S</td>
+              <td>15 - 2 courses, 7,5 each</td>
+            </tr>
+            <tr>
+              <th scope="row">Design Managment</th>
+              <td>Nuno Monge, Bernardo Gaeiras</td>
+              <td>1S</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <th scope="row">Physical and Digital Educational Environments</th>
+              <td>Adriana Cardoso, Pedro Mosca, Luís Frias</td>
+              <td>1S</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <th scope="row">Digital Languages Lab</th>
+              <td>André Rocha, André Sier</td>
+              <td>1S</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <th scope="row">Toys, Games, and Educational Resources</th>
+              <td>Tiago Almeida, Miguel Mata Pereira</td>
+              <td>2S</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <th scope="row">Projects Seminar</th>
+              <td>Tiago Almeida</td>
+              <td>2S</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <th scope="row">Design of Interactive Products for Education</th>
+              <td>André Rocha, Miguel Soeiro, Luís Frias, André Sier, Madalena Matoso</td>
+              <td>2S</td>
+              <td>20</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>
