@@ -27,15 +27,15 @@ services:
   items:
     - title: "Posgraduate Course"
       icon: "fas fa-university"
-      text: "The post-graduation course in Design of Interactive Products for Education intends to contribute to the preparation of design and education professionals for their integration and eventual coordination of multidisciplinary teams to perform tasks related to the design, selection and / or implementation of interactive products for education."
+      text: "Our post-graduation course in Design of Interactive Products for Education is designed to prepare design and education professionals for seamless integration and coordination within multidisciplinary teams. Through this program, you will develop the necessary skills to undertake tasks in the design, selection, and implementation of interactive products for education. Join us to enhance your expertise and excel in the dynamic field of educational design."
 
     - title: "Research"
       icon: "fas fa-laptop"
-      text: "Fabschools research aims to understand and contribute to the process of identifying maker education artifacts and practices that can be used in the context of formal education."
+      text: "Fabschools research is dedicated to comprehending and contributing to the identification of maker education artifacts and practices suitable for formal education. Our mission is to explore and uncover innovative approaches that seamlessly integrate the principles of maker education into traditional educational settings. Join us as we advance our understanding and drive positive change in the realm of formal education."
 
     - title: "Design and Training"
       icon: "far fa-paper-plane"
-      text: "Fabschools is aimed at devoloping teacher training based on the products and practices that derive from both the projects identiifed through reseacrch and those developed by our students and community."
+      text: "Fabschools is committed to developing teacher training programs based on the products and practices derived from our research projects, as well as those created by our students and community. Our goal is to empower educators with the knowledge and skills needed to effectively integrate innovative maker education approaches into their teaching methodologies. Join us in shaping the future of education by fostering a community-driven approach to teacher training and professional development."
 
 
 ### List [ listSection ]
