@@ -68,7 +68,7 @@ team:
   items:
     - name: "André Rocha"
       subname: "Professor / Researcher"
-      image: "/images/team5.jpg"
+      image: "/images/ar.png"
 
     - name: "Tiago Almeida"
       subname: "Professor / Researcher"

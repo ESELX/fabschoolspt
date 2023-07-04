@@ -38,7 +38,8 @@ teamcoord:
   items:
     - name: "André Rocha"
       subname: "Professor"
-      image: "/images/team5.jpg"
+      image: "/images/ar.png"
+      link: "https://steam228.github.io/"
 
     - name: "Adriana Cardoso"
       subname: "Professor"
@@ -50,7 +51,8 @@ teamcoord:
     
     - name: "Nuno Monge"
       subname: "Professor"
-      image: "/images/team2.jpg"
+      image: "/images/nm.png"
+      link: "https://www.linkedin.com/in/nunomonge/"
     
 
 ### Team [ teampgdpieSection ]
