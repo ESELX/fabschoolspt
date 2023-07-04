@@ -81,3 +81,7 @@ teampgdpie:
     - name: "Pedro Mosca"
       subname: "Professor"
       image: "/images/team5.jpg"
+
+    - name: "Miguel Soeiro"
+      subname: "Professor"
+      image: "/images/team2.jpg"
